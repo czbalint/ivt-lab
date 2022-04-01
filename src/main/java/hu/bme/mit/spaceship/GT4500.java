@@ -21,7 +21,11 @@ public class GT4500 implements SpaceShip {
   }
 
   /**
+<<<<<<< HEAD
   * Tries to fire the torpedo235 stores of the ship.
+=======
+  * Tries to fire the torpedo valami cahnge stores of the ship.
+>>>>>>> branch-B
   *
   * @param firingMode how many torpedo bays to fire
   * 	SINGLE: fires only one of the bays.
